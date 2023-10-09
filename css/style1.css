@@ -5,7 +5,28 @@
 }
 
 .pattern{
-    background-repeat: inherit;
+    background-image: url('../img/pattern.png');
     width: 100vw;
-    height: 50px;
+    height: 150px;
+    background-color:#007fff;
+    position: relative;
+}
+
+#logo{
+    position: absolute;
+    bottom:10px;
+    height: auto;
+    width: 150px;
+}
+.grassetto{
+    color: rgb(16, 176, 229);
+    display: inline;
+}
+div{
+    color: grey;
+    
+}
+#immaginiblock{
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
