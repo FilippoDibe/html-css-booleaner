@@ -45,7 +45,11 @@ div{
 }
 #immaginiblock{
     margin-bottom: 15px;
-    margin-top: 15px;
+    margin-top: 15px; 
+}
+#data{
+    padding: 0;
+    margin:0;
 }
 .evidenziatore{
     background-color: yellow;
