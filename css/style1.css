@@ -40,9 +40,9 @@ ul, li {
    
 }
 table , tr, td{
-    text-align: center; /* Centra il testo orizzontalmente */
-    vertical-align: middle; /* Centra il testo verticalmente */
-    padding: 10px; /* Spazio all'interno delle celle */
+    text-align: center; 
+    vertical-align: middle; 
+    padding: 10px; 
     border-collapse: collapse;
     border: none;
 
